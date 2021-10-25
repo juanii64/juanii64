@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm juanii64</h1>
-<h3 align="center">A passionate frontend developer from Mexico Wey</h3>
+<h3 align="center">A passionate developer from Mexico Wey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanii64" alt="juanii64" /></a> </p>
 
