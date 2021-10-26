@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm juanii64</h1>
 
-<p align="left"> <a href="https://www.facebook.com/Juanii64/"><img src="https://raw.githubusercontent.com/juanii64/juanii64/main/Banner%20Juanii64%20Twitch.png" alt="juanii64" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/Juanii64/"><img src="https://raw.githubusercontent.com/juanii64/juanii64/main/Banner.png" alt="juanii64" /></a> </p>
 <h3 align="center">A passionate developer from Mexico Wey</h3>
 
 
