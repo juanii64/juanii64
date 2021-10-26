@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Mexico Wey</h3>
 
 
-<p align="left"> <a href="https://www.facebook.com/Juanii64/"><img src="https://scontent.fcyw4-1.fna.fbcdn.net/v/t1.6435-9/235619949_4853658377995747_7691536229695411317_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGNp-9zPkqU3aAfUwYd9-ey30e2xW68vrnfR7bFbry-uesyyGX764fM5YQwNr1qLbXXJqQlTrYGzNx3RqddAzKH&_nc_ohc=-f4fdW69u-4AX8HOFwu&_nc_ht=scontent.fcyw4-1.fna&oh=8f9359a048ef4b9235fb3dde9eb12175&oe=619B4FCA" alt="juanii64" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/Juanii64/"><img src="https://raw.githubusercontent.com/juanii64/juanii64/main/Banner%20Juanii64%20Twitch.png" alt="juanii64" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanii64" alt="juanii64" /></a> </p>
 
